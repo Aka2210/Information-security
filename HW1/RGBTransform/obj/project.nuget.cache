@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5U7qGdsOehQVG8hpLwlrOZJDx5eesEBY76DR/6ChFR3Vz4PEivnR0gO2HOcxFP5bQYh0kT0arIc2W2YKZHslEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qoo09\\OneDrive\\program\\C#\\RGBTransform\\RGBTransform\\RGBTransform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qoo09\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\qoo09\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
